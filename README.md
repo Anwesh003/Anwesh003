@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Anwesh003
-- 👀 I’m currently interested in Neural Radiance Field
-- 🌱 I’m currently learning python, google ux design 
-- 💞️ I’m looking to collaborate on nothing as of now (02/12/2022)
+- 👀 I’m Intrested in Android App development, Web development and any tech related things.
 - 📫 anweshkrishnab6324@gmail.com
 [![@anwesh_krishna_b's Holopin board](https://holopin.me/anwesh_krishna_b)](https://holopin.io/@anwesh_krishna_b)
 
